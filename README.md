@@ -25,3 +25,5 @@ Make sure you have Python installed on your system. You can download it from [py
 The server must be running before any clients can connect. Open your terminal or command prompt and run:
 ```bash
 python server.py
+```bash
+python client.py
